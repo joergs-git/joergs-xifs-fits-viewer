@@ -10,7 +10,7 @@ support. So in the end it was a bit more than just changing Fitz headers and dis
 The whole code is quick and dirty and does not necessarily correspond to high and development,
 but it works quite well so far. If you like, you are welcome to professionalize it.
 
-Have a look at the wiki to get further informations.
+Have a look at the **wiki** to get further informations.
 
 You might need to install some python packages too, in case you haven't done so.
 
